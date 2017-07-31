@@ -1,5 +1,5 @@
 <?php
-define('DB_NAME','mystore');
+define('DB_NAME','cmagazine');
 
 /** MySQL database username */
 define('DB_USER','cmagazine');
